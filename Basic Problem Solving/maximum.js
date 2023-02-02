@@ -7,7 +7,7 @@ function maxNum (arg){
         }
     }
     return max;
-}
+} // Math.max() / Math.min() can also be used for direct approach.
 
 let arr = [0, 1, 25, 36, 45];
 console.log(maxNum(arr));
