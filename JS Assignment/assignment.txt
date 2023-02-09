@@ -1,0 +1,9 @@
+1) Feet To Mile Converter
+
+2) Wood Calculator : 1 chair = 1CF
+                     1 Table = 3CF 
+                     1 Bed   = 5CF 
+
+3) Brick Calculator : 1 input (story of a building), 1-10S 15ft, 11-20S 12ft, 20S+ 10ft/ Per feet = 1000 Brick
+
+4) Find the smallest name in an array (Tiny Friend)
