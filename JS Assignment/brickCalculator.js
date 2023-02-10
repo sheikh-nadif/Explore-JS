@@ -1,8 +1,10 @@
 // Brick Calculator : 1 input (story of a building), 
 // 1-10S 15ft, 11-20S 12ft, 20S+ 10ft
 // Per feet = 1000 Brick
-let totalBrick = 0;
+// Recursive Approach
+
 function brickCalculator (input){
+    let totalBrick = 0;
     if (input <= 0){
         return "Invalid Input: Must be a number and greater than 0";
     }
